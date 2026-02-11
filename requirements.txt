@@ -1,0 +1,2 @@
+paramiko==3.5.1
+functions-framework==3.8.2
